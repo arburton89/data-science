@@ -1,0 +1,1 @@
+conda env create -f golden_scenario_env.yml
